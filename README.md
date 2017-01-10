@@ -1,4 +1,4 @@
-i# SFTCPListener
+# SFTCPListener
 A very basic example of a Service Fabric TCP Listener.
 
 This is intended to give a quick start for anyone looking to work with [Service Fabric](https://docs.microsoft.com/en-us/azure/service-fabric/) when using a TCP listener, which isn't currently well documented. 
